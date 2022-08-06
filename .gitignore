@@ -1,0 +1,8 @@
+/venv
+config.py
+__pycache__/
+ex.py
+gf.ipynb
+.vscode
+binance_socket_manager.ipynb
+sobre_binance_api.py
